@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'THE PROPHET signed by Adam Carolla '
-datePublished: '2016-04-24T19:40:20.640Z'
-dateModified: '2016-04-24T19:40:11.760Z'
+description: THE PROPHET signed by Adam Carolla
+datePublished: '2016-04-24T19:40:33.787Z'
+dateModified: '2016-04-24T19:40:33.345Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-the-prophet.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-the-prophet.md
-published: true
 url: the-prophet/index.html
 _type: Article
 
