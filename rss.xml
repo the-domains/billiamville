@@ -4,7 +4,7 @@
         <description><![CDATA[Billiamville]]></description>
         <link>https://thegrid.ai/billiamville/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 20:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 20:24:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/billiamville/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
@@ -19,20 +19,6 @@
             <link>https://thegrid.ai/billiamville/books/index.html</link>
             <guid isPermaLink="false">d289fef6-0fb4-4b25-8fc2-551838e99e0e</guid>
             <pubDate>Sun, 24 Apr 2016 20:22:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FAST FOOD NATION]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/billiamville/fast-food-nation/index.html</link>
-            <guid isPermaLink="false">9c67d8e8-bb30-4ef4-b560-c3d578cfa6b1</guid>
-            <pubDate>Sun, 24 Apr 2016 19:53:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uncle Tom's Cabin]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfa1b0a7-c7a3-4b6e-a277-11b6f456f5d4.jpg">]]></description>
-            <link>https://thegrid.ai/billiamville/uncle-toms-cabin/index.html</link>
-            <guid isPermaLink="false">990b0144-85ce-4e15-84b2-eb057565874c</guid>
-            <pubDate>Sun, 24 Apr 2016 19:30:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
