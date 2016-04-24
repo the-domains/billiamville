@@ -1,0 +1,28 @@
+name: Billiamville
+favicon: null
+layout_spectrum: 0.5576314094942063
+typography_spectrum: 0.9031889331527054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.542596324114129
+  lightness: 0.09714722679927945
+  saturation: 0.5375324732158333
+  rhythmicContrast: 0.5368939389009029
+purpose: []
