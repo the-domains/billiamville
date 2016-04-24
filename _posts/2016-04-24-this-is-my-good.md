@@ -4,13 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-24T20:00:48.855Z'
-dateModified: '2016-04-24T20:00:39.343Z'
+description: THIS IS MY GOD signed by Cedric Yarbrough from Reno 911
+datePublished: '2016-04-24T20:02:15.122Z'
+dateModified: '2016-04-24T20:01:34.824Z'
 title: THIS IS MY GOOD
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-24-this-is-my-good.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-this-is-my-good.md
-published: true
 url: this-is-my-good/index.html
 _type: Article
 
